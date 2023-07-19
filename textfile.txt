@@ -1,2 +1,10 @@
 This is simple file created. Learning git from scratch.
 Git is a version control system which is widely used to track files and folders in the project. Github is a platform that uses underlying tech as Git. It is a decentralized version control system. 
+
+What does Git do?
+- Manage projects with Repositories
+- Clone a project to work on a local copy
+- Control and track changes with Staging and Committing
+- Branch and Merge to allow for work on different parts and versions of a project
+- Pull the latest version of the project to a local copy
+- Push local updates to the main project
