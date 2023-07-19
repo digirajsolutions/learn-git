@@ -1,1 +1,2 @@
 This is simple file created. Learning git from scratch.
+Git is a version control system which is widely used to track files and folders in the project. Github is a platform that uses underlying tech as Git. It is a decentralized version control system. 
