@@ -18,3 +18,9 @@ Git now creates a hidden folder to keep track of changes in that folder
 - Git allows you to see the full history of every commit.
 - You can revert back to any previous commit.
 - Git does not store a separate copy of every file in every commit, but keeps track of changes made in each commit!
+
+Why Git?
+- Over 70% of developers use Git!
+- Developers can work together from anywhere in the world.
+- Developers can see the full history of the project.
+- Developers can revert to earlier versions of a project.
